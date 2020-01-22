@@ -1,1 +1,1 @@
-This is Gwen's first git project
+This is Gwen's first git project on a new server
